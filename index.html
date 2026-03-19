@@ -5,6 +5,10 @@
   <title>Bangunan Islam</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Default SEO -->
+  <meta name="description" content="Dokumentasi Bangunan Islam">
+  <meta name="keywords" content="islam, rukun iman, rukun islam">
+
   <!-- Theme -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
 </head>
@@ -13,18 +17,78 @@
   <div id="app"></div>
 
   <script>
+    function parseFrontmatter(content) {
+      const match = content.match(/^---([\s\S]*?)---/);
+      if (!match) return { data: {}, content };
+
+      const yaml = match[1];
+      const lines = yaml.split('\n');
+
+      let data = {};
+      let currentKey = null;
+
+      lines.forEach(line => {
+        if (line.includes(':')) {
+          const [key, value] = line.split(':');
+          currentKey = key.trim();
+          data[currentKey] = value.trim() || [];
+        } else if (line.trim().startsWith('-')) {
+          if (!Array.isArray(data[currentKey])) {
+            data[currentKey] = [];
+          }
+          data[currentKey].push(line.replace('-', '').trim());
+        }
+      });
+
+      return {
+        data,
+        content: content.replace(/^---[\s\S]*?---/, '').trim()
+      };
+    }
+
     window.$docsify = {
       name: 'Bangunan Islam',
       loadSidebar: true,
       homepage: 'bangunan-islam.md',
       relativePath: true,
 
-      // 🔥 Hapus YAML frontmatter dari Obsidian
       plugins: [
         function (hook) {
+          
+          // 🔥 Hapus YAML frontmatter dari Obsidian
           hook.beforeEach(function (content) {
             return content.replace(/^---[\s\S]*?---/, '').trim();
           });
+
+          hook.beforeEach(function (content) {
+            const parsed = parseFrontmatter(content);
+
+            // 🔥 Inject SEO
+            if (parsed.data.title) {
+              document.title = parsed.data.title;
+            }
+
+            if (parsed.data.aliases) {
+              const desc = Array.isArray(parsed.data.aliases)
+                ? parsed.data.aliases.join(', ')
+                : parsed.data.aliases;
+
+              let metaDesc = document.querySelector('meta[name="description"]');
+              if (metaDesc) metaDesc.setAttribute('content', desc);
+            }
+
+            if (parsed.data.tags) {
+              const keywords = Array.isArray(parsed.data.tags)
+                ? parsed.data.tags.join(', ')
+                : parsed.data.tags;
+
+              let metaKeywords = document.querySelector('meta[name="keywords"]');
+              if (metaKeywords) metaKeywords.setAttribute('content', keywords);
+            }
+
+            return parsed.content;
+          });
+
         }
       ]
     }
