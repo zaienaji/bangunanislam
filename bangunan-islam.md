@@ -31,7 +31,6 @@ Keduanya bekerja bersama membentuk bangunan Islam yang kokoh.
 > — Sahih al-Bukhari no. 8, Sahih Muslim no. 16
 
 Syahadat adalah titik awal tegaknya bangunan. 
-→ [[Syahadat|Pelajari node ini]]
 
 ---
 ## 2. Shalat → Tiang
@@ -40,7 +39,6 @@ Syahadat adalah titik awal tegaknya bangunan. 
 > — Sunan al-Tirmidzi no. 2616
 
 Tanpa tiang, bangunan tidak berdiri. 
-→ [[Shalat|Pelajari node ini]]
 
 ---
 ## 3. Puasa → Dinding
@@ -50,7 +48,6 @@ Tanpa tiang, bangunan tidak berdiri. 
 > QS 2:183
 
 Dinding melindungi rumah dari kerusakan. 
-→ [[Puasa|Pelajari node ini]]
 
 ---
 ## 4. Zakat → Pintu dan Jendela
@@ -59,7 +56,6 @@ Dinding melindungi rumah dari kerusakan. 
 > *"Ambillah zakat dari harta mereka, guna membersihkan dan menyucikan mereka…"*
 
 Zakat adalah hubungan antara individu dan masyarakat. 
-→ [[Zakat|Pelajari node ini]]
 
 ---
 ## 5. Haji → Atap
@@ -68,7 +64,6 @@ Zakat adalah hubungan antara individu dan masyarakat. 
 > *"Mengerjakan haji adalah kewajiban manusia terhadap Allah bagi yang mampu…"*
 
 Atap menyempurnakan seluruh struktur. 
-→ [[Haji|Pelajari node ini]]
 
 ---
 # 🪨 Rukun Iman: Pondasi Dalam
@@ -80,7 +75,6 @@ Pondasi ini:
 - tidak terlihat 
 - menopang seluruh struktur 
 - menentukan kekokohan bangunan 
-→ [[Rukun Iman|Node utama rukun iman]]
 
 QS 9:109 memberi gambaran pondasi takwa sebagai dasar bangunan.
 
