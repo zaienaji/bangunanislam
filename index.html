@@ -5,6 +5,7 @@
   <title>Bangunan Islam</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
+  <!-- Theme -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" />
 </head>
 
@@ -16,10 +17,20 @@
       name: 'Bangunan Islam',
       loadSidebar: true,
       homepage: 'bangunan-islam.md',
-      relativePath: true
+      relativePath: true,
+
+      // 🔥 Hapus YAML frontmatter dari Obsidian
+      plugins: [
+        function (hook) {
+          hook.beforeEach(function (content) {
+            return content.replace(/^---[\s\S]*?---/, '').trim();
+          });
+        }
+      ]
     }
   </script>
 
+  <!-- Docsify Core -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
 </body>
 </html>
