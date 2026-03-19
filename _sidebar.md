@@ -1,1 +1,1 @@
-* [Bangunan Islam](/bangunan-islam.md)
+* [Bangunan Islam](bangunan-islam.md)
