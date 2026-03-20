@@ -211,8 +211,3 @@ Semoga kita termasuk orang-orang yang:
 - Selamat dalam iman
 - Wafat dalam keadaan tauhid
 - Mendapat ridha Allah
-
----
-
-📖 Kembali ke:
-[Rukun Iman](rukun-iman.md)

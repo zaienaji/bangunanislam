@@ -68,6 +68,8 @@ Atap menyempurnakan seluruh struktur. 
 ---
 # 🪨 Rukun Iman: Pondasi Dalam
 
+[Rukun iman](rukun-iman.md) adalah enam pilar utama dalam akidah Islam yang menjadi dasar keyakinan setiap Muslim, yaitu iman kepada Allah, malaikat, kitab-kitab, rasul-rasul, hari akhir, dan takdir. Memahami Rukun Iman bukan hanya sekadar mengetahui, tetapi juga meyakini dan mengamalkannya dalam kehidupan sehari-hari sebagai pondasi keimanan yang kokoh.
+
 > *"Engkau beriman kepada Allah, malaikat-Nya, kitab-kitab-Nya, rasul-rasul-Nya, hari akhir, dan takdir baik dan buruk."*
 > — Sahih Muslim no. 8
 
@@ -96,3 +98,4 @@ Bangunan Islam berdiri di atas:
 - **Pondasi**: rukun iman 
 - **Struktur**: rukun Islam 
 Inilah kerangka dasar yang akan menghubungkan seluruh node dalam *knowledge graph* Islam.
+

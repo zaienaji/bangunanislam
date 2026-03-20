@@ -3,6 +3,7 @@ title: Takdir sebagai DAG
 tags:
   - rukun-iman
   - iman-kepada-takdir
+  - place-holder
 ---
 # Memahami Qadar dengan Kerangka Directed Acyclic Graph
 

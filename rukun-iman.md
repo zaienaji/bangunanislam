@@ -5,7 +5,7 @@ tags:
 ---
 # Rukun Iman
 
-Rukun Iman adalah enam dasar keyakinan dalam Islam yang menjadi fondasi keimanan seorang Muslim.
+Rukun Iman adalah enam dasar keyakinan dalam Islam yang menjadi pondasi keimanan seorang Muslim.
 
 ## Enam Rukun Iman
 
@@ -13,7 +13,7 @@ Rukun Iman adalah enam dasar keyakinan dalam Islam yang menjadi fondasi keimanan
 2. Iman kepada Malaikat
 3. Iman kepada Kitab-kitab
 4. Iman kepada Rasul
-5. Iman kepada Hari Akhir
+5. [Iman kepada hari akhir](iman-kepada-hari-akhir.md)
 6. Iman kepada Takdir (Qadar)
 
 ---
