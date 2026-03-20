@@ -1,2 +1,3 @@
 * [Rukun Iman](rukun-iman.md)
-  * [Tanda Kiamat](tanda-kiamat)
+  * [Iman kepada hari akhir](iman-kepada-hari-akhir)
+    * [Tanda kiamat](tanda-kiamat)
