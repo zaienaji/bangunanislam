@@ -13,14 +13,14 @@ tags:
 
 Misalnya, ada seseorang yang baru lulus sekolah SMK kemudian dia berada di-persimpangan, apakah dia akan lanjut kuliah, langsung kerja, atau santai dulu.
 
-![manusia dipersimpangan](manusia%20dipersimpangan.png)
+![manusia dipersimpangan](Illustration/manusia%20dipersimpangan.png)
 
 Katakanlah dia memilih langsung kerja, dan melamar di beberapa tempat. sampailah dia pada 2 pilihan karena ada 2 perusahaan yang menerima:
 1. Kerja sebagai sales bank, yang bertugas mencari nasabah untuk mengajukan pinjaman bank.
 2. Kerja sebagai mekanik di bengkel.
 Semua punya kelemahan dan kelebihan. Misalnya, kerja di bengkel itu sesuai keahlian yang didapat semasa sekolah, tetapi kerja di ruang yang non-AC dan kotor dengan oli dan minyak. Kerja di bank tidak kotor, tetapi tidak sesuai dengan ilmu, namun paket gaji dan bonus lebih banyak, dengan resiko kerja di tempat ribawi.
 
-![takdir berikutnya setelah takdir](takdir%20berikutnya%20setelah%20takdir.png)
+![takdir berikutnya setelah takdir](Illustration/takdir%20berikutnya%20setelah%20takdir.png)
 
 Kita bisa memodelkan peristiwa dan pilihan hidup sepanjang umur seorang manusia dengan pendekatan diatas, Dengan komponen:
 
@@ -54,7 +54,7 @@ Hadis riwayat sahabat **Abdullah bin Abbas** _radhiyallahu ‘anhuma_. Rasululla
 > **(HR. Tirmidzi No. 2516, ia berkata: "Hadis ini hasan shahih")**
 
 > **“Tidak akan kamu dapati perubahan pada sunnatullah.”**  
-> ([QS. Al-Ahzab 33 - 62](QS.%20Al-Ahzab%2033%20-%2062.md), [QS. Fathir 35 - 43](QS.%20Fathir%2035%20-%2043.md))
+> ([QS. Al-Ahzab 33 - 62](Quran/QS.%20Al-Ahzab%2033%20-%2062.md), [QS. Fathir 35 - 43](Quran/QS.%20Fathir%2035%20-%2043.md))
 
 ➡️ Aturan graph:
 
@@ -67,11 +67,11 @@ Graph takdir inilah isi dari lauhul mahfudz. Graph ini jauh lebih kompleks dari 
 
 Namun demikian, pilihan yang banyak tadi bisa dikelompokkan menjadi 2 kelompok besar, yaitu jalan **kebaikan** dan jalan **keburukan**.
 
-![takdir terdiri dari pilihan baik dan buruk](takdir%20terdiri%20dari%20pilihan%20baik%20dan%20buruk.jpg)
+![takdir terdiri dari pilihan baik dan buruk](Illustration/takdir%20terdiri%20dari%20pilihan%20baik%20dan%20buruk.jpg)
 
 > وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ
 > **“Dan Kami telah menunjukkan kepadanya dua jalan.”**  
-> ([QS. Al-Balad 90 - 10](QS.%20Al-Balad%2090%20-%2010.md))
+> ([QS. Al-Balad 90 - 10](Quran/QS.%20Al-Balad%2090%20-%2010.md))
 
 ➡️ Manusia selalu memiliki pilihan (outgoing edge)
 
@@ -109,11 +109,11 @@ Rasulullah ﷺ bersabda:
 - Sahih al-Bukhari no. 3208
 - Sahih Muslim no. 2643
 
-### 📖 [QS. Ali Imran 3 - 102](QS.%20Ali%20Imran%203%20-%20102.md)
+### 📖 [QS. Ali Imran 3 - 102](Quran/QS.%20Ali%20Imran%203%20-%20102.md)
 > وَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُسْلِمُونَ  
 > _“Janganlah kalian mati kecuali dalam keadaan Muslim.”_
 
-### 📖 [QS. Al-Baqarah 2 - 132](QS.%20Al-Baqarah%202%20-%20132.md)
+### 📖 [QS. Al-Baqarah 2 - 132](Quran/QS.%20Al-Baqarah%202%20-%20132.md)
 
 > _“Janganlah kalian mati kecuali dalam keadaan berserah diri (Muslim).”_
 
@@ -154,9 +154,9 @@ Dalam kerangka kita:
 > _“Orang yang bertaubat seperti tidak berdosa.”_  
 > (HR. Ibnu Majah)
 
-Kembali pada Surat [QS. Al-Balad 90 - 10](QS.%20Al-Balad%2090%20-%2010.md) dimana seseorang dapat memilih jalan yang sesat, selama dia masih hidup, dia belum final masuk surga atau neraka, masih ada kesempatan untuk koreksi. Koreksi ini disebut taubat, dimana seseorang kembali memilih jalan yang benar. Dalam ilustrasi graph, dia kembali memilih yang hijau.
+Kembali pada Surat [QS. Al-Balad 90 - 10](Quran/QS.%20Al-Balad%2090%20-%2010.md) dimana seseorang dapat memilih jalan yang sesat, selama dia masih hidup, dia belum final masuk surga atau neraka, masih ada kesempatan untuk koreksi. Koreksi ini disebut taubat, dimana seseorang kembali memilih jalan yang benar. Dalam ilustrasi graph, dia kembali memilih yang hijau.
 
-![perjalanan hidup manusia traverse graph takdir](perjalanan%20hidup%20manusia%20traverse%20graph%20takdir.png)
+![perjalanan hidup manusia traverse graph takdir](Illustration/perjalanan%20hidup%20manusia%20traverse%20graph%20takdir.png)
 
 Semakin kita konsisten di jalur hijau - jalan yang benar, semakin besar peluang masuk surga.
 ## Doa dalam Graph Takdir
@@ -170,7 +170,7 @@ Rasulullah ﷺ bersabda:
 📚 Sumber:
 - Jami' at-Tirmidhi no. 2139 (hasan)
 
-Apakah doa merubah takdir? Bukan! Doa adalah bagian dari pada takdir itu sendiri. Dalam graph takdir, Doa adalah node, manusia memilih berdoa atau tidak. Jika dia memilih berdoa, maka terbuka 2 jalur takdir ([QS. Al-Balad 90 - 10](QS.%20Al-Balad%2090%20-%2010.md)) dari doa tersebut.
+Apakah doa merubah takdir? Bukan! Doa adalah bagian dari pada takdir itu sendiri. Dalam graph takdir, Doa adalah node, manusia memilih berdoa atau tidak. Jika dia memilih berdoa, maka terbuka 2 jalur takdir ([QS. Al-Balad 90 - 10](Quran/QS.%20Al-Balad%2090%20-%2010.md)) dari doa tersebut.
 
 ## Petunjuk Allah dalam Graph Takdir
 Pertanyaan inti, kalau:
@@ -195,7 +195,7 @@ Posisi Hidayah dalam GRAPH:
 
 ### Allah memberi hidayah pada manusia
 
-📖 [QS. Al-Qaṣaṣ 28 - 56](QS.%20Al-Qaṣaṣ%2028%20-%2056.md)
+📖 [QS. Al-Qaṣaṣ 28 - 56](Quran/QS.%20Al-Qaṣaṣ%2028%20-%2056.md)
 > **إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَنْ يَشَاءُ**
 > 
 > _“Engkau tidak dapat memberi hidayah kepada orang yang engkau cintai, tetapi Allah memberi hidayah kepada siapa yang Dia kehendaki.”_
@@ -204,7 +204,7 @@ Posisi Hidayah dalam GRAPH:
 - tidak mengontrol hidayah
 - hanya menyampaikan
 
-📖 [QS. Muhammad 47 - 17](QS.%20Muhammad%2047%20-%2017.md)
+📖 [QS. Muhammad 47 - 17](Quran/QS.%20Muhammad%2047%20-%2017.md)
 
 > **وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدًى**
 > 
@@ -216,7 +216,7 @@ Posisi Hidayah dalam GRAPH:
 
 ### Allah bisa menyesatkan manusia
 
-📖 [QS. Ash-Shaff 61 - 5](QS.%20Ash-Shaff%2061%20-%205.md)
+📖 [QS. Ash-Shaff 61 - 5](Quran/QS.%20Ash-Shaff%2061%20-%205.md)
 
 > _“Ketika mereka menyimpang, Allah memalingkan hati mereka.”_
 
@@ -257,7 +257,7 @@ Dalam model kita:
 
 #### 3. Dalil larangan membandingkan (hasad)
 
-📖 [QS. An-Nisa 4 - 32](QS.%20An-Nisa%204%20-%2032.md)
+📖 [QS. An-Nisa 4 - 32](Quran/QS.%20An-Nisa%204%20-%2032.md)
 
 > **وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَىٰ بَعْضٍ**
 > 
@@ -266,7 +266,7 @@ Dalam model kita:
 
 #### 4. Dalil: pembagian sudah ditentukan
 
-📖 [QS. Az-Zukhruf 43 - 32](QS.%20Az-Zukhruf%2043%20-%2032.md)
+📖 [QS. Az-Zukhruf 43 - 32](Quran/QS.%20Az-Zukhruf%2043%20-%2032.md)
 
 > _“Kami yang membagi penghidupan mereka dalam kehidupan dunia…”_
 
@@ -352,12 +352,12 @@ Perkataan Umar bin Khattab:
 
 Beriman kepada takdir membuat manusia tidak sombong, sebab dia memandang semua pencapaian berasal dari Allah
 
-📖 [QS. Al-Kahfi 18 - 39](QS.%20Al-Kahfi%2018%20-%2039.md)
+📖 [QS. Al-Kahfi 18 - 39](Quran/QS.%20Al-Kahfi%2018%20-%2039.md)
 
 > _“Mā shā’aLlāh, lā quwwata illā billāh”_  
 > _(Semua ini atas kehendak Allah, tidak ada kekuatan kecuali dengan-Nya)_
 
-📖 [QS. An-Naml 27 - 40](QS.%20An-Naml%2027%20-%2040.md)
+📖 [QS. An-Naml 27 - 40](Quran/QS.%20An-Naml%2027%20-%2040.md)
 
 > **هَٰذَا مِن فَضْلِ رَبِّي لِيَبْلُوَنِي أَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّي غَنِيٌّ كَرِيمٌ**
 
@@ -367,7 +367,7 @@ Terjemah inti:
 
 Dalil bahwa tanpa iman kepada takdir membawa pada kesombongan, kisah Qorun:
 
-📖 [QS. Al-Qaṣaṣ 28 - 78](QS.%20Al-Qaṣaṣ%2028%20-%2078.md)
+📖 [QS. Al-Qaṣaṣ 28 - 78](Quran/QS.%20Al-Qaṣaṣ%2028%20-%2078.md)
 > _“Sesungguhnya aku diberi harta itu karena ilmu yang ada padaku.”_  
 
 ### Tidak putus asa
@@ -386,7 +386,7 @@ Putus asa muncul ketika seseorang merasa:
 
 #### 2. Koreksi: Graph Allah selalu punya jalur
 
-Selama masih hidup, manusia selalu punya node berikutnya [QS. Al-Balad 90 - 10](QS.%20Al-Balad%2090%20-%2010.md)
+Selama masih hidup, manusia selalu punya node berikutnya [QS. Al-Balad 90 - 10](Quran/QS.%20Al-Balad%2090%20-%2010.md)
 
 👉 Artinya:
 
@@ -394,7 +394,7 @@ Selama masih hidup, manusia selalu punya node berikutnya [QS. Al-Balad 90 - 10](
 
 #### 3. Dalil larangan putus asa
 
-📖 [QS. Az-Zumar 39 - 53](QS.%20Az-Zumar%2039%20-%2053.md)
+📖 [QS. Az-Zumar 39 - 53](Quran/QS.%20Az-Zumar%2039%20-%2053.md)
 
 > **لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ**
 > 
@@ -406,7 +406,7 @@ Selama masih hidup, manusia selalu punya node berikutnya [QS. Al-Balad 90 - 10](
 
 #### 4. Dalil: Allah memberi jalan keluar
 
-📖 [QS. At-Talaq 65 - 2 sampai 3](QS.%20At-Talaq%2065%20-%202%20sampai%203.md)
+📖 [QS. At-Talaq 65 - 2 sampai 3](Quran/QS.%20At-Talaq%2065%20-%202%20sampai%203.md)
 
 > _“Barang siapa bertakwa kepada Allah, niscaya Dia akan menjadikan baginya jalan keluar dan memberinya rezeki dari arah yang tidak disangka-sangka.”_
 
