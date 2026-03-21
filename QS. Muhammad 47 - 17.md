@@ -1,0 +1,3 @@
+وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًۭى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ
+
+Dan orang-orang yang mendapat petunjuk, Allah menambah petunjuk kepada mereka dan memberikan kepada mereka (balasan) ketakwaannya.

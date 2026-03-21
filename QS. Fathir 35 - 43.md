@@ -1,0 +1,3 @@
+ٱسْتِكْبَارًۭا فِى ٱلْأَرْضِ وَمَكْرَ ٱلسَّيِّئِ ۚ وَلَا يَحِيقُ ٱلْمَكْرُ ٱلسَّيِّئُ إِلَّا بِأَهْلِهِۦ ۚ فَهَلْ يَنظُرُونَ إِلَّا سُنَّتَ ٱلْأَوَّلِينَ ۚ فَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَبْدِيلًۭا ۖ وَلَن تَجِدَ لِسُنَّتِ ٱللَّهِ تَحْوِيلًا
+
+karena kesombongan (mereka) di muka bumi dan karena rencana (mereka) yang jahat. Rencana yang jahat itu tidak akan menimpa, selain orang yang merencanakannya sendiri. Tiadalah yang mereka nanti-nantikan, melainkan (berlakunya) sunah (Allah yang telah berlaku) kepada orang-orang yang terdahulu 1. Maka sekali-kali, kamu tidak akan mendapat penggantian bagi sunah Allah dan sekali-kali tidak (pula) akan menemui penyimpangan bagi sunah Allah itu.

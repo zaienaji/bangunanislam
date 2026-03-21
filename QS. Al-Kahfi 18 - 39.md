@@ -1,0 +1,3 @@
+وَلَوْلَآ إِذْ دَخَلْتَ جَنَّتَكَ قُلْتَ مَا شَآءَ ٱللَّهُ لَا قُوَّةَ إِلَّا بِٱللَّهِ ۚ إِن تَرَنِ أَنَا۠ أَقَلَّ مِنكَ مَالًۭا وَوَلَدًۭا
+
+Dan mengapa kamu tidak mengucapkan tatkala kamu memasuki kebunmu "Masyaallah Lā Quwwata illā billāh" (Sungguh atas kehendak Allah semua ini terwujud, tiada kekuatan kecuali dengan pertolongan Allah). Sekiranya kamu anggap aku lebih sedikit darimu dalam hal harta dan keturunan,

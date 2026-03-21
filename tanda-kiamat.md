@@ -211,3 +211,8 @@ Semoga kita termasuk orang-orang yang:
 - Selamat dalam iman
 - Wafat dalam keadaan tauhid
 - Mendapat ridha Allah
+
+---
+
+📖 Kembali ke:
+[Iman kepada hari akhir](iman-kepada-hari-akhir.md)
