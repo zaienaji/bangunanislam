@@ -418,4 +418,4 @@ Selama masih hidup, manusia selalu punya node berikutnya [QS. Al-Balad 90 - 10](
 ---
 
 📖 Kembali ke:
-[Iman kepada hari akhir](iman-kepada-hari-akhir.md)
+[Iman kepada takdir](iman-kepada-takdir.md)
