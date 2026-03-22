@@ -88,6 +88,8 @@ Perkataan **Umar bin Khattab**:
 
 Ujung akhir takdir adalah 1 dari 2 kemungkinan: surga atau neraka. Selama manusia hidup, dia berada di tengah perjalanan graph (graph-traverse) - dia sudah lahir dan belum meninggal. Dia belum sampai pada kondisi final berakhir di surga atau di neraka.
 
+![perjalanan hidup manusia traverse graph takdir](Illustration/perjalanan%20hidup%20manusia%20traverse%20graph%20takdir.png)
+
 ### 📖 Dari Abdullah bin Mas'ud
 Rasulullah ﷺ bersabda:
 > إِنَّمَا الأَعْمَالُ بِالخَوَاتِيمِ  
