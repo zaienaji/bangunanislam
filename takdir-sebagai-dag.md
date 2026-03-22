@@ -88,8 +88,6 @@ Perkataan **Umar bin Khattab**:
 
 Ujung akhir takdir adalah 1 dari 2 kemungkinan: surga atau neraka. Selama manusia hidup, dia berada di tengah perjalanan graph (graph-traverse) - dia sudah lahir dan belum meninggal. Dia belum sampai pada kondisi final berakhir di surga atau di neraka.
 
-![perjalanan hidup manusia traverse graph takdir](perjalanan%20hidup%20manusia%20traverse%20graph%20takdir.png)
-
 ### 📖 Dari Abdullah bin Mas'ud
 Rasulullah ﷺ bersabda:
 > إِنَّمَا الأَعْمَالُ بِالخَوَاتِيمِ  
@@ -156,10 +154,8 @@ Dalam kerangka kita:
 
 Kembali pada Surat [QS. Al-Balad 90 - 10](Quran/QS.%20Al-Balad%2090%20-%2010.md) dimana seseorang dapat memilih jalan yang sesat, selama dia masih hidup, dia belum final masuk surga atau neraka, masih ada kesempatan untuk koreksi. Koreksi ini disebut taubat, dimana seseorang kembali memilih jalan yang benar. Dalam ilustrasi graph, dia kembali memilih yang hijau.
 
-![perjalanan hidup manusia traverse graph takdir](Illustration/perjalanan%20hidup%20manusia%20traverse%20graph%20takdir.png)
-
 Semakin kita konsisten di jalur hijau - jalan yang benar, semakin besar peluang masuk surga.
-## Doa dalam Graph Takdir
+## Pengaruh Doa dalam Graph Takdir
 
 ### 📖 Dari Salman al-Farisi
 
@@ -172,6 +168,51 @@ Rasulullah ﷺ bersabda:
 
 Apakah doa merubah takdir? Bukan! Doa adalah bagian dari pada takdir itu sendiri. Dalam graph takdir, Doa adalah node, manusia memilih berdoa atau tidak. Jika dia memilih berdoa, maka terbuka 2 jalur takdir ([QS. Al-Balad 90 - 10](Quran/QS.%20Al-Balad%2090%20-%2010.md)) dari doa tersebut.
 
+## Pengaruh Tawakal dalam Graph Takdir
+
+- Tawakal adalah konsekuensi iman kepada Allah
+	- Dia harus tahu tuhannya ada. [QS. At-Tur 52:35-36](Quran/QS.%20At-Tur%2052%20-%2035%20sampai%2036.md)
+	- Dia tahu tuhannya maha kuasa, sehingga memiliki kapasitas untuk menyelesaikan masalahnya.
+		- [QS. Al-Baqarah 2:20](Quran/QS.%20Al-Baqarah%202%20-%2020.md)
+		- [QS. Al-Mulk 67:2](Quran/QS.%20Al-Mulk%2067%20-%202.md)
+		- [QS. Al-An’am 6:17](Quran/QS.%20Al-An’am%206%20-%2017.md)
+		- [QS. Yasin 36:82](Quran/QS.%20Yasin%2036%20-%2082.md)
+		- [QS. Ali Imran 3:160](Quran/QS.%20Ali%20Imran%203%20-%20160.md)
+		- Dari Ibnu Abbas, Rasulullah ﷺ bersabda:“Ketahuilah, jika seluruh umat berkumpul untuk memberi manfaat kepadamu, mereka tidak akan bisa memberi manfaat kecuali yang telah Allah tetapkan…”(HR. Tirmidzi no. 2516)
+	- Dia sudah tahu ada tuhan dan tuhannya maha kuasa, maka dia meminta kepada tuhan nya
+		- [QS. Ghafir 40:60](Quran/QS.%20Ghafir%2040%20-%2060.md)
+		- [QS. An-Naml 27:62](Quran/QS.%20An-Naml%2027%20-%2062.md)
+		- [QS. Al-Baqarah 2:186](Quran/QS.%20Al-Baqarah%202%20-%20186.md)
+	- Dia juga berusaha
+		- Seorang sahabat bertanya:“Wahai Rasulullah, apakah aku harus mengikat untaku atau bertawakal?”Beliau menjawab:“Ikatlah (untamu) dan bertawakallah.”(HR. Tirmidzi no. 2517)
+		- [QS. An-Najm 53:39](Quran/QS.%20An-Najm%2053%20-%2039.md)
+		- Dari Umar bin Khattab:“…burung keluar pagi dalam keadaan lapar dan pulang sore dalam keadaan kenyang…”(HR. Tirmidzi no. 2344) burung nya keluar dulu (usaha dulu), diiringi tawakal.
+		- [QS. Al-Ankabut 29:69](Quran/QS.%20Al-Ankabut%2029%20-%2069.md)
+		- Hadis:“Sesungguhnya Allah mencintai jika salah seorang di antara kalian melakukan suatu pekerjaan, dia melakukannya dengan itqan (profesional/sempurna).”(HR. Al-Baihaqi dalam Syu’abul Iman)
+		- [QS. Al-Mulk 67:2](Quran/QS.%20Al-Mulk%2067%20-%202.md)
+		- Dari Az-Zubair bin Al-Awwam:“Nabi ﷺ memakai dua baju besi pada hari Uhud.”(HR. Bukhari dan Muslim) - artinya nabi berusaha dengan memakai baju perang dua lapis padahal Nabi adalah manusia yang paling bagus tawakal nya.
+	- Dia sudah berusaha, diiringi dengan konsisten
+		- Hadis:“Amalan yang paling dicintai Allah adalah yang paling terus-menerus meskipun sedikit.”(HR. Aisyah binti Abu Bakar, riwayat Bukhari & Muslim)
+	- Dia sudah meminta kepada tuhan nya, dia juga sudah berusaha, sekarang dia berserah diri.
+		- [QS. Ali Imran 3:159](Quran/QS.%20Ali%20Imran%203%20-%20159.md)
+
+## Pengaruh Usaha dalam Graph Takdir
+
+Kaidah:
+* takdir tidak menghapus hukum sebab akibat.
+* usaha tidak bisa melepaskan diri dari takdir.
+Mengapa harus usaha:
+* lakukan sebab, contoh:
+	* jika ingin kenyang, maka makan.
+	* jika ingin punya anak, maka menikah, meskipun menikah tidak menjamin punya anak, kalau tidak menikah dipastikan tidak punya anak.
+* dituntut oleh syariat
+	* [QS An-Najm 39](Quran/QS.%20An-Najm%2053%20-%2039.md)
+	* [QS At-Taubah 105](Quran/QS.%20At-Taubah%209%20-%20105.md)
+	- [QS Al-Baqarah 286](Quran/QS.%20Al-Baqarah%202%20-%20286.md)
+- Bagian dari proses tawakal
+- Ikhtiar tidak bisa melepaskan diri dari takdir. Kenapa dilakukan?
+	- Karena diperintahkan dalam syariat: QS. [QS. Yusuf 12:67-68](Quran/QS.%20Yusuf%2012%20-%2067%20sampai%2068.md)
+	- Karena manusia pindah node takdir dan akan membuka jalan baru [QS. Al-Balad 90:10](Quran/QS.%20Al-Balad%2090%20-%2010.md).
 ## Petunjuk Allah dalam Graph Takdir
 Pertanyaan inti, kalau:
 - manusia memilih jalan (edge)
