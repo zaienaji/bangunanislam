@@ -1,0 +1,3 @@
+إِن يَنصُرْكُمُ ٱللَّهُ فَلَا غَالِبَ لَكُمْ ۖ وَإِن يَخْذُلْكُمْ فَمَن ذَا ٱلَّذِى يَنصُرُكُم مِّنۢ بَعْدِهِۦ ۗ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ
+
+Jika Allah menolong kamu, maka tak ada orang yang dapat mengalahkan kamu; jika Allah membiarkan kamu (tidak memberi pertolongan), maka siapakah gerangan yang dapat menolong kamu (selain) dari Allah sesudah itu? Karena itu, hendaklah kepada Allah saja orang-orang mukmin bertawakal.
