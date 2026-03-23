@@ -1,3 +1,3 @@
-وَٱلَّذِينَ ٱهْتَدَوْا۟ زَادَهُمْ هُدًۭى وَءَاتَىٰهُمْ تَقْوَىٰهُمْ
+# QS. Muhammad 47:17
 
-Dan orang-orang yang mendapat petunjuk, Allah menambah petunjuk kepada mereka dan memberikan kepada mereka (balasan) ketakwaannya.
+https://quran.com/id/47?startingVerse=17

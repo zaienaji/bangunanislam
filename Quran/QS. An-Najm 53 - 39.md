@@ -1,3 +1,3 @@
-أَلَّا تَزِرُ وَازِرَةٌۭ وِزْرَ أُخْرَىٰ
+# QS. An-Najm 53:39
 
-(yaitu) bahwasanya seorang yang berdosa tidak akan memikul dosa orang lain,
+https://quran.com/id/53?startingVerse=39

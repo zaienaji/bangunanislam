@@ -1,3 +1,3 @@
-أَمَّن يُجِيبُ ٱلْمُضْطَرَّ إِذَا دَعَاهُ وَيَكْشِفُ ٱلسُّوٓءَ وَيَجْعَلُكُمْ خُلَفَآءَ ٱلْأَرْضِ ۗ أَءِلَـٰهٌۭ مَّعَ ٱللَّهِ ۚ قَلِيلًۭا مَّا تَذَكَّرُونَ
+# QS. An-Naml 27:62
 
-Atau siapakah yang memperkenankan (doa) orang yang dalam kesulitan apabila ia berdoa kepada-Nya dan yang menghilangkan kesusahan dan yang menjadikan kamu (manusia) sebagai khalifah di bumi 1? Apakah di samping Allah ada tuhan (yang lain)? Amat sedikitlah kamu mengingati(Nya).
+https://quran.com/id/40?startingVerse=62

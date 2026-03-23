@@ -1,3 +1,3 @@
-إِنَّمَآ أَمْرُهُۥٓ إِذَآ أَرَادَ شَيْـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ ٨٢
+# QS. Yasin 36:82
 
-Sesungguhnya perintah-Nya apabila Dia menghendaki sesuatu hanyalah berkata kepadanya, "Jadilah!" Maka terjadilah ia.
+https://quran.com/id/36?startingVerse=82

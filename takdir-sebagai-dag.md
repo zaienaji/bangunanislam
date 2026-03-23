@@ -9,7 +9,7 @@ tags:
 
 ## Apa itu DAG
 
-[Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) adalah sebuah representasi data yang berupa graph, yaitu kumpulan [node](https://en.wikipedia.org/wiki/Vertex_(graph_theory)) dan [egdes](https://en.wikipedia.org/wiki/Edge_(graph_theory)), namun tidak terbentuk [cycle](https://en.wikipedia.org/wiki/Cycle_(graph_theory)). DAG akan kita gunakan untuk membuat diagram visual atas contoh kasus takdir.
+[Directed Acyclic Graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph) (DAG) adalah sebuah representasi data yang berupa graph, yaitu kumpulan [node](https://en.wikipedia.org/wiki/Vertex_(graph_theory)) dan [egdes](https://en.wikipedia.org/wiki/Edge_(graph_theory)), namun tidak terbentuk [cycle](https://en.wikipedia.org/wiki/Cycle_(graph_theory)). DAG akan kita gunakan untuk membuat diagram visual atas contoh kasus takdir. Hal ini dikarenakan DAG sangat cocok untuk memodelkan peristiwa hidup manusia. Kondisi hidup adalah *node*. Pilihan hidup adalah *edges*. Pilihan hidup ada yang sesuai dengan syariat, ada yang melawan syariat. Jika sebuah pilihan sudah dijatuhkan (niat), lalu dieksekusi, maka manusia akan pindah dari kondisi hidup ke kondisi hidup berikutnya, dari *node* ke *node* yang lain. Di kondisi hidup (node) yang baru, akan muncul pilihan hidup (edges) berikutnya. 
 
 Misalnya, ada seseorang yang baru lulus sekolah SMK kemudian dia berada di-persimpangan, apakah dia akan lanjut kuliah, langsung kerja, atau santai dulu.
 
@@ -22,16 +22,18 @@ Semua punya kelemahan dan kelebihan. Misalnya, kerja di bengkel itu sesuai keahl
 
 ![takdir berikutnya setelah takdir](Illustration/takdir%20berikutnya%20setelah%20takdir.png)
 
-Kita bisa memodelkan peristiwa dan pilihan hidup sepanjang umur seorang manusia dengan pendekatan diatas, Dengan komponen:
+Jika zoom-out sampai kita bisa melihat rangkaian peristiwa seseorang, maka kita akan dapati rangkaian hidup dia, dari dia lahir sampai dia mati. Kita akan mendapati model rangkaian peristiwa hidup manusia dalam model DAG dengan komponen berikut:
 
 - **Source (awal)** → kelahiran
 - **Node** → keadaan hidup (kaya, miskin, sehat, ujian, peluang)
 - **Edge (panah)** → pilihan manusia (taat, maksiat, sabar, lalai, taubat)
 - **Sink (akhir)** → surga atau neraka
 
-Demikianlah DAG, dia bergerak dari satu node ke node yang lain, dan tidak pernah kembali ke node sebelumnya.
+Demikianlah DAG, dia bergerak dari satu node ke node yang lain, dan tidak pernah kembali ke node sebelumnya - tidak terbentuk cycle, karena mustahil manusia kembali ke masa lalu.
 
 ## Dalil terkait Takdir
+
+### Takdir sudah dituliskan dengan lengkap, sampai hari kiamat, dan tidak akan berubah.
 
 Hadis riwayat sahabat **Ubadah bin ash-Shamit** _radhiyallahu 'anhu_.
 
@@ -54,7 +56,7 @@ Hadis riwayat sahabat **Abdullah bin Abbas** _radhiyallahu ‘anhuma_. Rasululla
 > **(HR. Tirmidzi No. 2516, ia berkata: "Hadis ini hasan shahih")**
 
 > **“Tidak akan kamu dapati perubahan pada sunnatullah.”**  
-> ([QS. Al-Ahzab 33 - 62](Quran/QS.%20Al-Ahzab%2033%20-%2062.md), [QS. Fathir 35 - 43](Quran/QS.%20Fathir%2035%20-%2043.md))
+> ([QS. Al-Ahzab 33:62](Quran/QS.%20Al-Ahzab%2033%20-%2062.md), [QS. Fathir 35:43](Quran/QS.%20Fathir%2035%20-%2043.md))
 
 ➡️ Aturan graph:
 
@@ -71,7 +73,7 @@ Namun demikian, pilihan yang banyak tadi bisa dikelompokkan menjadi 2 kelompok b
 
 > وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ
 > **“Dan Kami telah menunjukkan kepadanya dua jalan.”**  
-> ([QS. Al-Balad 90 - 10](Quran/QS.%20Al-Balad%2090%20-%2010.md))
+> ([QS. Al-Balad 90:10](Quran/QS.%20Al-Balad%2090%20-%2010.md))
 
 ➡️ Manusia selalu memiliki pilihan (outgoing edge)
 
@@ -109,11 +111,11 @@ Rasulullah ﷺ bersabda:
 - Sahih al-Bukhari no. 3208
 - Sahih Muslim no. 2643
 
-### 📖 [QS. Ali Imran 3 - 102](Quran/QS.%20Ali%20Imran%203%20-%20102.md)
+### 📖 [QS. Ali Imran 3:102](Quran/QS.%20Ali%20Imran%203%20-%20102.md)
 > وَلَا تَمُوتُنَّ إِلَّا وَأَنْتُمْ مُسْلِمُونَ  
 > _“Janganlah kalian mati kecuali dalam keadaan Muslim.”_
 
-### 📖 [QS. Al-Baqarah 2 - 132](Quran/QS.%20Al-Baqarah%202%20-%20132.md)
+### 📖 [QS. Al-Baqarah 2:132](Quran/QS.%20Al-Baqarah%202%20-%20132.md)
 
 > _“Janganlah kalian mati kecuali dalam keadaan berserah diri (Muslim).”_
 
@@ -154,10 +156,10 @@ Dalam kerangka kita:
 > _“Orang yang bertaubat seperti tidak berdosa.”_  
 > (HR. Ibnu Majah)
 
-Kembali pada Surat [QS. Al-Balad 90 - 10](Quran/QS.%20Al-Balad%2090%20-%2010.md) dimana seseorang dapat memilih jalan yang sesat, selama dia masih hidup, dia belum final masuk surga atau neraka, masih ada kesempatan untuk koreksi. Koreksi ini disebut taubat, dimana seseorang kembali memilih jalan yang benar. Dalam ilustrasi graph, dia kembali memilih yang hijau.
+Kembali pada Surat [QS. Al-Balad 90:10](Quran/QS.%20Al-Balad%2090%20-%2010.md) dimana seseorang dapat memilih jalan yang sesat, selama dia masih hidup, dia belum final masuk surga atau neraka, masih ada kesempatan untuk koreksi. Koreksi ini disebut taubat, dimana seseorang kembali memilih jalan yang benar. Dalam ilustrasi graph, dia kembali memilih yang hijau.
 
 Semakin kita konsisten di jalur hijau - jalan yang benar, semakin besar peluang masuk surga.
-## Pengaruh Doa dalam Graph Takdir
+## Doa dalam Graph Takdir
 
 ### 📖 Dari Salman al-Farisi
 
@@ -168,37 +170,38 @@ Rasulullah ﷺ bersabda:
 📚 Sumber:
 - Jami' at-Tirmidhi no. 2139 (hasan)
 
-Apakah doa merubah takdir? Bukan! Doa adalah bagian dari pada takdir itu sendiri. Dalam graph takdir, Doa adalah node, manusia memilih berdoa atau tidak. Jika dia memilih berdoa, maka terbuka 2 jalur takdir ([QS. Al-Balad 90 - 10](Quran/QS.%20Al-Balad%2090%20-%2010.md)) dari doa tersebut.
+Apakah doa merubah takdir? Bukan! Doa adalah bagian dari pada takdir itu sendiri. Dalam graph takdir, Doa adalah node, manusia memilih berdoa atau tidak. Jika dia memilih berdoa, maka terbuka 2 jalur takdir ([QS. Al-Balad 90:10](Quran/QS.%20Al-Balad%2090%20-%2010.md)) dari doa tersebut.
 
-## Pengaruh Tawakal dalam Graph Takdir
+## Tawakal dalam Graph Takdir
 
-- Tawakal adalah konsekuensi iman kepada Allah
-	- Dia harus tahu tuhannya ada. [QS. At-Tur 52:35-36](Quran/QS.%20At-Tur%2052%20-%2035%20sampai%2036.md)
-	- Dia tahu tuhannya maha kuasa, sehingga memiliki kapasitas untuk menyelesaikan masalahnya.
-		- [QS. Al-Baqarah 2:20](Quran/QS.%20Al-Baqarah%202%20-%2020.md)
-		- [QS. Al-Mulk 67:2](Quran/QS.%20Al-Mulk%2067%20-%202.md)
-		- [QS. Al-An’am 6:17](Quran/QS.%20Al-An’am%206%20-%2017.md)
-		- [QS. Yasin 36:82](Quran/QS.%20Yasin%2036%20-%2082.md)
-		- [QS. Ali Imran 3:160](Quran/QS.%20Ali%20Imran%203%20-%20160.md)
-		- Dari Ibnu Abbas, Rasulullah ﷺ bersabda:“Ketahuilah, jika seluruh umat berkumpul untuk memberi manfaat kepadamu, mereka tidak akan bisa memberi manfaat kecuali yang telah Allah tetapkan…”(HR. Tirmidzi no. 2516)
-	- Dia sudah tahu ada tuhan dan tuhannya maha kuasa, maka dia meminta kepada tuhan nya
-		- [QS. Ghafir 40:60](Quran/QS.%20Ghafir%2040%20-%2060.md)
-		- [QS. An-Naml 27:62](Quran/QS.%20An-Naml%2027%20-%2062.md)
-		- [QS. Al-Baqarah 2:186](Quran/QS.%20Al-Baqarah%202%20-%20186.md)
-	- Dia juga berusaha
-		- Seorang sahabat bertanya:“Wahai Rasulullah, apakah aku harus mengikat untaku atau bertawakal?”Beliau menjawab:“Ikatlah (untamu) dan bertawakallah.”(HR. Tirmidzi no. 2517)
-		- [QS. An-Najm 53:39](Quran/QS.%20An-Najm%2053%20-%2039.md)
-		- Dari Umar bin Khattab:“…burung keluar pagi dalam keadaan lapar dan pulang sore dalam keadaan kenyang…”(HR. Tirmidzi no. 2344) burung nya keluar dulu (usaha dulu), diiringi tawakal.
-		- [QS. Al-Ankabut 29:69](Quran/QS.%20Al-Ankabut%2029%20-%2069.md)
-		- Hadis:“Sesungguhnya Allah mencintai jika salah seorang di antara kalian melakukan suatu pekerjaan, dia melakukannya dengan itqan (profesional/sempurna).”(HR. Al-Baihaqi dalam Syu’abul Iman)
-		- [QS. Al-Mulk 67:2](Quran/QS.%20Al-Mulk%2067%20-%202.md)
-		- Dari Az-Zubair bin Al-Awwam:“Nabi ﷺ memakai dua baju besi pada hari Uhud.”(HR. Bukhari dan Muslim) - artinya nabi berusaha dengan memakai baju perang dua lapis padahal Nabi adalah manusia yang paling bagus tawakal nya.
-	- Dia sudah berusaha, diiringi dengan konsisten
-		- Hadis:“Amalan yang paling dicintai Allah adalah yang paling terus-menerus meskipun sedikit.”(HR. Aisyah binti Abu Bakar, riwayat Bukhari & Muslim)
-	- Dia sudah meminta kepada tuhan nya, dia juga sudah berusaha, sekarang dia berserah diri.
-		- [QS. Ali Imran 3:159](Quran/QS.%20Ali%20Imran%203%20-%20159.md)
+Tawakal adalah konsekuensi iman kepada Allah. Proses menuju tawakal adalah sebagai berikut:
+1. Pertama, dia harus tahu tuhannya ada. [QS. At-Tur 52:35-36](Quran/QS.%20At-Tur%2052%20-%2035%20sampai%2036.md)
+2. Kemudian, dia tahu tuhannya maha kuasa, sehingga memiliki kapasitas untuk menyelesaikan masalahnya.
+	- [QS. Al-Baqarah 2:20](Quran/QS.%20Al-Baqarah%202%20-%2020.md)
+	- [QS. Al-Mulk 67:2](Quran/QS.%20Al-Mulk%2067%20-%202.md)
+	- [QS. Al-An’am 6:17](Quran/QS.%20Al-An’am%206%20-%2017.md)
+	- [QS. Yasin 36:82](Quran/QS.%20Yasin%2036%20-%2082.md)
+	- [QS. Ali Imran 3:160](Quran/QS.%20Ali%20Imran%203%20-%20160.md)
+	- Dari Ibnu Abbas, Rasulullah ﷺ bersabda:“Ketahuilah, jika seluruh umat berkumpul untuk memberi manfaat kepadamu, mereka tidak akan bisa memberi manfaat kecuali yang telah Allah tetapkan…”(HR. Tirmidzi no. 2516)
+3. Setelah dia sudah tahu ada tuhan dan tuhannya maha kuasa, maka dia meminta kepada tuhan nya
+	- [QS. Ghafir 40:60](Quran/QS.%20Ghafir%2040%20-%2060.md)
+	- [QS. An-Naml 27:62](Quran/QS.%20An-Naml%2027%20-%2062.md)
+	- [QS. Al-Baqarah 2:186](Quran/QS.%20Al-Baqarah%202%20-%20186.md)
+4. Kemudian dia juga berusaha
+	- [QS. Al-Ankabut 29:69](Quran/QS.%20Al-Ankabut%2029%20-%2069.md)
+	- [QS. An-Najm 53:39](Quran/QS.%20An-Najm%2053%20-%2039.md)
+	- [QS. Al-Mulk 67:2](Quran/QS.%20Al-Mulk%2067%20-%202.md)
+	- Seorang sahabat bertanya:“Wahai Rasulullah, apakah aku harus mengikat unta-ku atau bertawakal? ”Beliau menjawab:“Ikatlah (untamu) dan bertawakallah.”(HR. Tirmidzi no. 2517)
+	- Dari Umar bin Khattab:“…burung keluar pagi dalam keadaan lapar dan pulang sore dalam keadaan kenyang…”(HR. Tirmidzi no. 2344) burung nya keluar dulu (usaha dulu), diiringi tawakal.
+	- Hadis:“Sesungguhnya Allah mencintai jika salah seorang di antara kalian melakukan suatu pekerjaan, dia melakukannya dengan itqan (profesional/sempurna).”(HR. Al-Baihaqi dalam Syu’abul Iman)
+	- Dari Az-Zubair bin Al-Awwam:“Nabi ﷺ memakai dua baju besi pada hari Uhud.”(HR. Bukhari dan Muslim) - artinya nabi berusaha dengan memakai baju perang dua lapis padahal Nabi adalah manusia yang paling bagus tawakal nya.
+5. Setelah dia sudah berusaha, dia diiringi dengan konsistensi
+	- Hadis:“Amalan yang paling dicintai Allah adalah yang paling terus-menerus meskipun sedikit.”(HR. Aisyah binti Abu Bakar, riwayat Bukhari & Muslim)
+6. Setelah dia sudah meminta kepada tuhan nya, dia juga iringi berusaha, sekarang dia berserah diri - inilah tawakal.
+	- [QS. Ali Imran 3:159](Quran/QS.%20Ali%20Imran%203%20-%20159.md)
 
-## Pengaruh Usaha dalam Graph Takdir
+Oleh sebab itu, tawakal mengumpulkan banyak ibadah, setidaknya 6 ibadah diatas.
+## Usaha dalam Graph Takdir
 
 Kaidah:
 * takdir tidak menghapus hukum sebab akibat.
@@ -215,6 +218,7 @@ Mengapa harus usaha:
 - Ikhtiar tidak bisa melepaskan diri dari takdir. Kenapa dilakukan?
 	- Karena diperintahkan dalam syariat: QS. [QS. Yusuf 12:67-68](Quran/QS.%20Yusuf%2012%20-%2067%20sampai%2068.md)
 	- Karena manusia pindah node takdir dan akan membuka jalan baru [QS. Al-Balad 90:10](Quran/QS.%20Al-Balad%2090%20-%2010.md).
+
 ## Petunjuk Allah dalam Graph Takdir
 Pertanyaan inti, kalau:
 - manusia memilih jalan (edge)
@@ -238,7 +242,7 @@ Posisi Hidayah dalam GRAPH:
 
 ### Allah memberi hidayah pada manusia
 
-📖 [QS. Al-Qaṣaṣ 28 - 56](Quran/QS.%20Al-Qaṣaṣ%2028%20-%2056.md)
+📖 [QS. Al-Qaṣaṣ 28:56](Quran/QS.%20Al-Qaṣaṣ%2028%20-%2056.md)
 > **إِنَّكَ لَا تَهْدِي مَنْ أَحْبَبْتَ وَلَٰكِنَّ اللَّهَ يَهْدِي مَنْ يَشَاءُ**
 > 
 > _“Engkau tidak dapat memberi hidayah kepada orang yang engkau cintai, tetapi Allah memberi hidayah kepada siapa yang Dia kehendaki.”_
@@ -247,7 +251,7 @@ Posisi Hidayah dalam GRAPH:
 - tidak mengontrol hidayah
 - hanya menyampaikan
 
-📖 [QS. Muhammad 47 - 17](Quran/QS.%20Muhammad%2047%20-%2017.md)
+📖 [QS. Muhammad 47:17](Quran/QS.%20Muhammad%2047%20-%2017.md)
 
 > **وَالَّذِينَ اهْتَدَوْا زَادَهُمْ هُدًى**
 > 
@@ -259,7 +263,7 @@ Posisi Hidayah dalam GRAPH:
 
 ### Allah bisa menyesatkan manusia
 
-📖 [QS. Ash-Shaff 61 - 5](Quran/QS.%20Ash-Shaff%2061%20-%205.md)
+📖 [QS. Ash-Shaff 61:5](Quran/QS.%20Ash-Shaff%2061%20-%205.md)
 
 > _“Ketika mereka menyimpang, Allah memalingkan hati mereka.”_
 
@@ -300,7 +304,7 @@ Dalam model kita:
 
 #### 3. Dalil larangan membandingkan (hasad)
 
-📖 [QS. An-Nisa 4 - 32](Quran/QS.%20An-Nisa%204%20-%2032.md)
+📖 [QS. An-Nisa 4:32](Quran/QS.%20An-Nisa%204%20-%2032.md)
 
 > **وَلَا تَتَمَنَّوْا مَا فَضَّلَ اللَّهُ بِهِ بَعْضَكُمْ عَلَىٰ بَعْضٍ**
 > 
@@ -309,7 +313,7 @@ Dalam model kita:
 
 #### 4. Dalil: pembagian sudah ditentukan
 
-📖 [QS. Az-Zukhruf 43 - 32](Quran/QS.%20Az-Zukhruf%2043%20-%2032.md)
+📖 [QS. Az-Zukhruf 43:32](Quran/QS.%20Az-Zukhruf%2043%20-%2032.md)
 
 > _“Kami yang membagi penghidupan mereka dalam kehidupan dunia…”_
 
@@ -395,12 +399,12 @@ Perkataan Umar bin Khattab:
 
 Beriman kepada takdir membuat manusia tidak sombong, sebab dia memandang semua pencapaian berasal dari Allah
 
-📖 [QS. Al-Kahfi 18 - 39](Quran/QS.%20Al-Kahfi%2018%20-%2039.md)
+📖 [QS. Al-Kahfi 18:39](Quran/QS.%20Al-Kahfi%2018%20-%2039.md)
 
 > _“Mā shā’aLlāh, lā quwwata illā billāh”_  
 > _(Semua ini atas kehendak Allah, tidak ada kekuatan kecuali dengan-Nya)_
 
-📖 [QS. An-Naml 27 - 40](Quran/QS.%20An-Naml%2027%20-%2040.md)
+📖 [QS. An-Naml 27:40](Quran/QS.%20An-Naml%2027%20-%2040.md)
 
 > **هَٰذَا مِن فَضْلِ رَبِّي لِيَبْلُوَنِي أَأَشْكُرُ أَمْ أَكْفُرُ ۖ وَمَن شَكَرَ فَإِنَّمَا يَشْكُرُ لِنَفْسِهِ ۖ وَمَن كَفَرَ فَإِنَّ رَبِّي غَنِيٌّ كَرِيمٌ**
 
@@ -410,7 +414,7 @@ Terjemah inti:
 
 Dalil bahwa tanpa iman kepada takdir membawa pada kesombongan, kisah Qorun:
 
-📖 [QS. Al-Qaṣaṣ 28 - 78](Quran/QS.%20Al-Qaṣaṣ%2028%20-%2078.md)
+📖 [QS. Al-Qaṣaṣ 28:78](Quran/QS.%20Al-Qaṣaṣ%2028%20-%2078.md)
 > _“Sesungguhnya aku diberi harta itu karena ilmu yang ada padaku.”_  
 
 ### Tidak putus asa
@@ -429,7 +433,7 @@ Putus asa muncul ketika seseorang merasa:
 
 #### 2. Koreksi: Graph Allah selalu punya jalur
 
-Selama masih hidup, manusia selalu punya node berikutnya [QS. Al-Balad 90 - 10](Quran/QS.%20Al-Balad%2090%20-%2010.md)
+Selama masih hidup, manusia selalu punya node berikutnya [QS. Al-Balad 90:10](Quran/QS.%20Al-Balad%2090%20-%2010.md)
 
 👉 Artinya:
 
@@ -437,7 +441,7 @@ Selama masih hidup, manusia selalu punya node berikutnya [QS. Al-Balad 90 - 10](
 
 #### 3. Dalil larangan putus asa
 
-📖 [QS. Az-Zumar 39 - 53](Quran/QS.%20Az-Zumar%2039%20-%2053.md)
+📖 [QS. Az-Zumar 39:53](Quran/QS.%20Az-Zumar%2039%20-%2053.md)
 
 > **لَا تَقْنَطُوا مِن رَّحْمَةِ اللَّهِ**
 > 
@@ -449,7 +453,7 @@ Selama masih hidup, manusia selalu punya node berikutnya [QS. Al-Balad 90 - 10](
 
 #### 4. Dalil: Allah memberi jalan keluar
 
-📖 [QS. At-Talaq 65 - 2 sampai 3](Quran/QS.%20At-Talaq%2065%20-%202%20sampai%203.md)
+📖 [QS. At-Talaq 65:2-3](Quran/QS.%20At-Talaq%2065%20-%202%20sampai%203.md)
 
 > _“Barang siapa bertakwa kepada Allah, niscaya Dia akan menjadikan baginya jalan keluar dan memberinya rezeki dari arah yang tidak disangka-sangka.”_
 
