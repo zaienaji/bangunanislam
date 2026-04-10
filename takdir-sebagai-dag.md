@@ -172,6 +172,18 @@ Rasulullah ﷺ bersabda:
 
 Apakah doa merubah takdir? Bukan! Doa adalah bagian dari pada takdir itu sendiri. Dalam graph takdir, Doa adalah node, manusia memilih berdoa atau tidak. Jika dia memilih berdoa, maka terbuka 2 jalur takdir ([QS. Al-Balad 90:10](Quran/QS.%20Al-Balad%2090%20-%2010.md)) dari doa tersebut.
 
+### Kisah nabi Yunus
+
+Kisah Nabi Yunus ‘alaihis salam di dalam perut ikan, khususnya bagian yang menunjukkan bahwa **doa adalah bagian dari node takdir**:
+
+> **Jika bukan karena doa (dzikir) Nabi Yunus, niscaya ia akan tetap dalam perut ikan hingga hari kiamat.**
+
+Hadis/atsar ini **datangnya dari Al‑Qur’an** dan **tafsir sahabat**, bukan dari hadis Nabi ﷺ yang memiliki nomor dalam kitab Sunan enam.
+
+Namun ada **riwayat shahih dari Ibnu Abbas dalam tafsir**, disertai nomor ayat Al‑Qur’an yang menjadi dasar.
+
+Dalil ini memunjukkan bahwa doa bagian dari graph takdir, jika manusia berdoa, maka terbuka opsi-opsi berikutanya sebagaimana kisah diatas.
+
 ## Tawakal dalam Graph Takdir
 
 Tawakal adalah konsekuensi iman kepada Allah. Proses menuju tawakal adalah sebagai berikut:
@@ -201,6 +213,68 @@ Tawakal adalah konsekuensi iman kepada Allah. Proses menuju tawakal adalah sebag
 	- [QS. Ali Imran 3:159](Quran/QS.%20Ali%20Imran%203%20-%20159.md)
 
 Oleh sebab itu, tawakal mengumpulkan banyak ibadah, setidaknya 6 ibadah diatas.
+
+### Dalil Tawakal
+
+Dalam beberapa kitab adab dan zuhud—seperti _Hilyat al-Awliyā’_ karya Abu Nuʿaym dan riwayat-riwayat atsar para sahabat—diceritakan bahwa **Umar bin Khattab melihat sekelompok orang berdiam diri di masjid**, lalu bertanya:
+
+> _“Siapa kalian?”_  
+> Mereka menjawab:  
+> _“Kami adalah orang-orang yang bertawakal kepada Allah.”_
+> 
+> Maka Umar berkata kepada mereka:  
+> **“Kalian bukan orang yang bertawakal, tetapi kalian adalah orang yang malas.  
+> Kalian tahu bahwa langit tidak akan menurunkan hujan emas dan perak.”**
+
+Frasa **“langit tidak menurunkan hujan emas dan perak”** adalah kritikan tajam Umar agar kaum muslimin tidak menyalahgunakan konsep tawakal.
+
+---
+
+Nabi ﷺ bersabda:
+
+> **"Ikatlah (unta) terlebih dahulu, lalu bertawakallah."**
+
+Hadis ini **shahih**, dan diriwayatkan dengan jelas berikut sumber, perawi, dan nomor hadis:
+
+**1. Sunan At‑Tirmidzi**
+
+- **Kitab:** Sifatul Qiyāmah
+- **Bab:** Mā Jā’a fīl‑Tawakkul
+- **Nomor hadis:** **2517**
+
+At‑Tirmidzi berkata:
+
+> **هَذَا حَدِيثٌ حَسَنٌ**
+
+**2. Musnad Ahmad**
+
+- **Musnad Anas**
+- **Nomor hadis:** **12174 (Cet. Ar‑Risālah)**  
+    Sanadnya **shahih** menurut para ulama.
+
+**3. Shu’ab al‑Īmān – al‑Bayhaqi**
+
+- **Nomor hadis:** **10434**  
+    Dengan sanad yang kuat.
+
+---
+
+Dari Anas radhiyallahu ‘anhu, ia berkata:
+
+> **“Rasulullah ﷺ pada hari Uhud memakai dua lapis baju zirah.”**
+
+**1. Shahih al‑Bukhari**
+
+- **Nomor hadis:** **2915**
+- **Kitab:** al‑Jihād was‑Siyar
+- **Bab:** _Helm dan baju perang_
+
+**2. Shahih Muslim**
+
+- **Nomor hadis:** **2037** (lihat juga no. 1357 pada penomoran lain)
+- **Kitab:** al‑Jihād was‑Siyar
+
+---
 ## Usaha dalam Graph Takdir
 
 Kaidah:
