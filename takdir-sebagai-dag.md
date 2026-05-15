@@ -538,6 +538,21 @@ Selama masih hidup, manusia selalu punya node berikutnya [QS. Al-Balad 90:10](Qu
 
 
 ---
+## Syubhat pemikiran (falasi) pada takdir
 
+### Berdalil dengan takdir
+
+Bentuknya dengan cara melegalkan perbuatannya dengan dalil ini sudah takdir.
+Bentuk lainnya adalah melegalkan perbuatannya dengan berkata: Kalau Allah tidak mau, maka ini tidak akan terjadi. Karena ini sudah terjadi, maka kesimpulannya Allah mau.
+
+#### Bantahan
+1. tidak boleh berdalil dengan takdir, karena kita tidak tau bagaimana secara *exact* takdir ditulis.
+2. kenyataannya, kita tidak ada paksaan dalam memilih.
+3. tidak konsisten. misalnya, jika anak kita disakiti, lalu pelaku berkata: ini sudah takdir, maka kita sebagai orang tua tidak bisa menerima alasan itu.
+4. Allah bisa berkehendak, tapi Allah tidak ridho. Contoh: Allah menciptakan iblis, tapi Allah tidak ridho dengan iblis. Allah sengaja membuat manusia merasakan sebagian kerusakan akibat perbuatan tangan manusia, supaya manusia sadar. Dan Allah tidak suka terhadap kerusakan.
+5. [QS. Al-Kahfi 18 - 7](QS.%20Al-Kahfi%2018%20-%207.md)Surat Al Kahfi 18:7, menjadi dalil Allah menciptakan semua ini sebagai ujian. Yang diuji adalah response manusia atas ujian itu.
+6. [QS. Yasin 36 - 47](QS.%20Yasin%2036%20-%2047.md), menjadi dalil bahwa Allah menguji orang kaya dengan orang miskin, apakah orang kaya mau melepaskan hartanya demi Allah, bukan Allah tidak mampu menjadikan orang miskin itu menjadi orang kaya.
+7. aaa
+---
 📖 Kembali ke:
 [Iman kepada takdir](iman-kepada-takdir.md)
