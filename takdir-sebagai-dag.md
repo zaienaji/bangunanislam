@@ -279,7 +279,8 @@ Dari Anas radhiyallahu ‘anhu, ia berkata:
 
 Kaidah:
 * takdir tidak menghapus hukum sebab akibat.
-* usaha tidak bisa melepaskan diri dari takdir.
+* usaha tidak bisa melepaskan diri dari takdir. Dalil: kisah nabi Yakub, dia berkata: maka (cara yang mereka lakukan itu) tiadalah melepaskan mereka sedikit pun dari takdir Allah ... QS Yusuf 12:67-68.
+
 Mengapa harus usaha:
 * lakukan sebab, contoh:
 	* jika ingin kenyang, maka makan.
