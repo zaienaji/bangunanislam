@@ -277,6 +277,13 @@ Dari Anas radhiyallahu ‘anhu, ia berkata:
 ---
 ## Usaha dalam Graph Takdir
 
+Usaha adalah konsekuensi dari [Tawakal](#tawakal-dalam-graph-takdir). Karena jika sudah tawakal, maka dia pasrah kepada Allah, dan konsekuensinya adalah taat akan perintah Allah. Salah satu perintah Allah adalah usaha.
+
+Dalil:
+* [QS. Al Jumuah 62:10](QS.%20Al%20Jumuah%2062%20-%2010.md): Apabila telah ditunaikan salat, maka bertebaranlah kamu di muka bumi; dan carilah karunia Allah dan ingatlah Allah banyak-banyak supaya kamu beruntung.
+
+Jika digambarkan dalam urutan proses: Tawakal ➜ pasrah kepada Allah ➜ Kalau Allah perintahkan, maka akan saya laksanakan ➜ Allah perintahkan untuk bekerja sesuai dengan Al Jumu'ah 62:10.
+
 Kaidah:
 * takdir tidak menghapus hukum sebab akibat.
 * usaha tidak bisa melepaskan diri dari takdir. Dalil: kisah nabi Yakub, dia berkata: maka (cara yang mereka lakukan itu) tiadalah melepaskan mereka sedikit pun dari takdir Allah ... QS Yusuf 12:67-68.
@@ -294,6 +301,25 @@ Mengapa harus usaha:
 	- Karena diperintahkan dalam syariat: QS. [QS. Yusuf 12:67-68](Quran/QS.%20Yusuf%2012%20-%2067%20sampai%2068.md)
 	- Karena manusia pindah node takdir dan akan membuka jalan baru [QS. Al-Balad 90:10](Quran/QS.%20Al-Balad%2090%20-%2010.md).
 
+Jadi:
+* Usaha konsekuensi dari pasrah kepada Allah
+* Usaha bagian dari ketaatan, sehingga mendapat pahala. Semakin baik usaha-nya (semakin besar *effort*, metode, biaya, dll) maka semakin besar pahalanya.
+* Hasil dari usaha adalah hak Allah, usaha bukan sebab otomatis jadi hasil.
+	* Maka jika tidak berhasil, tujuan usaha sudah diraih, yaitu dapat pahala. Maka seseorang hendaknya tetap bersabar, dan berusaha kembali. Situasi belum mendapat hasil adalah itu hak Allah. Dan Maha Suci Allah dari salah dalam menetapkan takdir.
+	* Maka jika usaha berhasil, maka itu dari Allah, sehingga dia mengucapkan *Hadza min fadhli rabbi* (هَٰذَا مِن فَضْلِ رَبِّي). Dan dengan keberhasilan ini, hasilnya harus digunakan untuk ketaatan berikutnya.
+	* Kalau gagal dia tidak sedih, kalau berhasil dia tidak sombong.
+
+Jika manusia sudah menyadari usaha adalah buah dari tawakal, maka akan muncul kondisi yg indah dimana: bersatu-nya 2 hal yg nampaknya kontradiktif:
+* dia berusaha sungguh-sungguh seolah-olah hasil ditangan dia.
+* dia pasrah 100% kepada Allah karena dia tau usaha bukan sebab otomatis jadi hasil.
+Dia nampak gigih dalam berupaya, tapi hatinya tidak insecure karena dia tau Allah-lah yang menentukan, dan Allah tidak pernah salah.
+
+Yang harus diperhatikan:
+* pasrah bukan putus asa
+* pasrah bukan malas
+* Dia akan gigih, tidak putus asa, tidak malas, karena dia tau kegigihannya adalah konsekuensi dari pasrah (tawakal) kepada Allah.
+* putus asa kontradiksi dengan pasrah, sebab pasrah menuntut sang hamba menuruti perintah Allah, dan putus asa dilarang dalam syariat sesuai dalil dalam [QS. Yusuf 12:87](QS.%20Yusuf%2012%20-%2087.md) ...dan saudaranya dan jangan kamu berputus asa dari rahmat Allah. Sesungguhnya tiada berputus asa dari rahmat Allah, melainkan kaum yang kafir.
+* malas kontradiksi dengan pasrah, sebab pasrah menuntut sang hamba menuruti perintah Allah, dan malas dilarang dalam syariat sesuai dalil dalam[QS. Al-Insyirah 94:7](QS.%20Al-Insyirah%2094%20-%207.md) Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain.
 ## Petunjuk Allah dalam Graph Takdir
 Pertanyaan inti, kalau:
 - manusia memilih jalan (edge)
