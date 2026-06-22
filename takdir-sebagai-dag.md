@@ -277,7 +277,11 @@ Dari Anas radhiyallahu ‘anhu, ia berkata:
 ---
 ## Usaha dalam Graph Takdir
 
-Usaha adalah konsekuensi dari [Tawakal](#tawakal-dalam-graph-takdir). Karena jika sudah tawakal, maka dia pasrah kepada Allah, dan konsekuensinya adalah taat akan perintah Allah. Salah satu perintah Allah adalah usaha.
+Usaha membuat manusia pindah dari 1 node takdir ke node takdir yang lain, dalil:
+* [QS. Al-Balad 90:10](Quran/QS.%20Al-Balad%2090%20-%2010.md). : Dan Kami telah menunjukkan kepadanya dua jalan.
+* [QS. Al-Ankabut 29:69](QS.%20Al-Ankabut%2029%20-%2069.md) : Dan orang-orang yang berjihad untuk (mencari keridaan) Kami, benar-benar akan Kami tunjukkan kepada mereka jalan-jalan Kami. Dan sesungguhnya Allah benar-benar beserta orang-orang yang berbuat baik.
+
+> Usaha adalah konsekuensi dari [Tawakal](#tawakal-dalam-graph-takdir). Karena jika sudah tawakal, maka dia pasrah kepada Allah, dan konsekuensinya adalah taat akan perintah Allah. Salah satu perintah Allah adalah usaha.
 
 Dalil:
 * [QS. Al Jumuah 62:10](QS.%20Al%20Jumuah%2062%20-%2010.md): Apabila telah ditunaikan salat, maka bertebaranlah kamu di muka bumi; dan carilah karunia Allah dan ingatlah Allah banyak-banyak supaya kamu beruntung.
@@ -300,19 +304,20 @@ Mengapa harus usaha:
 - Ikhtiar tidak bisa melepaskan diri dari takdir. Kenapa dilakukan?
 	- Karena diperintahkan dalam syariat: QS. [QS. Yusuf 12:67-68](Quran/QS.%20Yusuf%2012%20-%2067%20sampai%2068.md)
 	- Karena manusia pindah node takdir dan akan membuka jalan baru [QS. Al-Balad 90:10](Quran/QS.%20Al-Balad%2090%20-%2010.md).
+- bagi yang sabar dalam usahanya, Allah akan membuka jalan, dalil [QS. Al-Ankabut 29:69](QS.%20Al-Ankabut%2029%20-%2069.md).
 
 Jadi:
 * Usaha konsekuensi dari pasrah kepada Allah
 * Usaha bagian dari ketaatan, sehingga mendapat pahala. Semakin baik usaha-nya (semakin besar *effort*, metode, biaya, dll) maka semakin besar pahalanya.
+	* Semakin dia bersungguh-sungguh dalam usahanya, akan dibukakan jalan baru sesuai [QS. Al-Ankabut 29:69](QS.%20Al-Ankabut%2029%20-%2069.md). Artinya usaha membuah berpindah dari 1 node takdir ke node takdir yang lain.
 * Hasil dari usaha adalah hak Allah, usaha bukan sebab otomatis jadi hasil.
 	* Maka jika tidak berhasil, tujuan usaha sudah diraih, yaitu dapat pahala. Maka seseorang hendaknya tetap bersabar, dan berusaha kembali. Situasi belum mendapat hasil adalah itu hak Allah. Dan Maha Suci Allah dari salah dalam menetapkan takdir.
 	* Maka jika usaha berhasil, maka itu dari Allah, sehingga dia mengucapkan *Hadza min fadhli rabbi* (هَٰذَا مِن فَضْلِ رَبِّي). Dan dengan keberhasilan ini, hasilnya harus digunakan untuk ketaatan berikutnya.
 	* Kalau gagal dia tidak sedih, kalau berhasil dia tidak sombong.
-
-Jika manusia sudah menyadari usaha adalah buah dari tawakal, maka akan muncul kondisi yg indah dimana: bersatu-nya 2 hal yg nampaknya kontradiktif:
-* dia berusaha sungguh-sungguh seolah-olah hasil ditangan dia.
-* dia pasrah 100% kepada Allah karena dia tau usaha bukan sebab otomatis jadi hasil.
-Dia nampak gigih dalam berupaya, tapi hatinya tidak insecure karena dia tau Allah-lah yang menentukan, dan Allah tidak pernah salah.
+* Jika manusia sudah menyadari usaha adalah buah dari tawakal, maka akan muncul kondisi yg indah dimana: bersatu-nya 2 hal yg nampaknya kontradiktif:
+	* dia berusaha sungguh-sungguh seolah-olah hasil ditangan dia.
+	* dia pasrah 100% kepada Allah karena dia tau usaha bukan sebab otomatis jadi hasil.
+* Dia nampak gigih dalam berupaya, tapi hatinya tidak insecure karena dia tau Allah-lah yang menentukan, dan Allah tidak pernah salah.
 
 Yang harus diperhatikan:
 * pasrah bukan putus asa
