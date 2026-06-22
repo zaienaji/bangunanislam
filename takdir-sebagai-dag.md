@@ -284,7 +284,7 @@ Usaha membuat manusia pindah dari 1 node takdir ke node takdir yang lain, dalil:
 > Usaha adalah konsekuensi dari [Tawakal](#tawakal-dalam-graph-takdir). Karena jika sudah tawakal, maka dia pasrah kepada Allah, dan konsekuensinya adalah taat akan perintah Allah. Salah satu perintah Allah adalah usaha.
 
 Dalil:
-* [QS. Al Jumuah 62:10](QS.%20Al%20Jumuah%2062%20-%2010.md): Apabila telah ditunaikan salat, maka bertebaranlah kamu di muka bumi; dan carilah karunia Allah dan ingatlah Allah banyak-banyak supaya kamu beruntung.
+* [QS. Al Jumuah 62:10](QS-62-Al-Jumuah-10.md): Apabila telah ditunaikan salat, maka bertebaranlah kamu di muka bumi; dan carilah karunia Allah dan ingatlah Allah banyak-banyak supaya kamu beruntung.
 
 Jika digambarkan dalam urutan proses: Tawakal ➜ pasrah kepada Allah ➜ Kalau Allah perintahkan, maka akan saya laksanakan ➜ Allah perintahkan untuk bekerja sesuai dengan Al Jumu'ah 62:10.
 
@@ -306,7 +306,7 @@ Mengapa harus usaha:
 	- Karena manusia pindah node takdir dan akan membuka jalan baru [QS. Al-Balad 90:10](Quran/QS.%20Al-Balad%2090%20-%2010.md).
 - bagi yang sabar dalam usahanya, Allah akan membuka jalan, dalil [QS. Al-Ankabut 29:69](QS.%20Al-Ankabut%2029%20-%2069.md).
 
-Jadi:
+Kesimpulan:
 * Usaha konsekuensi dari pasrah kepada Allah
 * Usaha bagian dari ketaatan, sehingga mendapat pahala. Semakin baik usaha-nya (semakin besar *effort*, metode, biaya, dll) maka semakin besar pahalanya.
 	* Semakin dia bersungguh-sungguh dalam usahanya, akan dibukakan jalan baru sesuai [QS. Al-Ankabut 29:69](QS.%20Al-Ankabut%2029%20-%2069.md). Artinya usaha membuah berpindah dari 1 node takdir ke node takdir yang lain.
@@ -324,7 +324,7 @@ Yang harus diperhatikan:
 * pasrah bukan malas
 * Dia akan gigih, tidak putus asa, tidak malas, karena dia tau kegigihannya adalah konsekuensi dari pasrah (tawakal) kepada Allah.
 * putus asa kontradiksi dengan pasrah, sebab pasrah menuntut sang hamba menuruti perintah Allah, dan putus asa dilarang dalam syariat sesuai dalil dalam [QS. Yusuf 12:87](QS.%20Yusuf%2012%20-%2087.md) ...dan saudaranya dan jangan kamu berputus asa dari rahmat Allah. Sesungguhnya tiada berputus asa dari rahmat Allah, melainkan kaum yang kafir.
-* malas kontradiksi dengan pasrah, sebab pasrah menuntut sang hamba menuruti perintah Allah, dan malas dilarang dalam syariat sesuai dalil dalam[QS. Al-Insyirah 94:7](QS.%20Al-Insyirah%2094%20-%207.md) Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain.
+* malas kontradiksi dengan pasrah, sebab pasrah menuntut sang hamba menuruti perintah Allah, dan malas dilarang dalam syariat sesuai dalil dalam [QS. Al-Insyirah 94:7](QS.%20Al-Insyirah%2094%20-%207.md) Maka apabila kamu telah selesai (dari sesuatu urusan), kerjakanlah dengan sungguh-sungguh (urusan) yang lain.
 ## Petunjuk Allah dalam Graph Takdir
 Pertanyaan inti, kalau:
 - manusia memilih jalan (edge)
@@ -581,7 +581,7 @@ Bentuk lainnya adalah melegalkan perbuatannya dengan berkata: Kalau Allah tidak 
 2. kenyataannya, kita tidak ada paksaan dalam memilih.
 3. tidak konsisten. misalnya, jika anak kita disakiti, lalu pelaku berkata: ini sudah takdir, maka kita sebagai orang tua tidak bisa menerima alasan itu.
 4. Allah bisa berkehendak, tapi Allah tidak ridho. Contoh: Allah menciptakan iblis, tapi Allah tidak ridho dengan iblis. Allah sengaja membuat manusia merasakan sebagian kerusakan akibat perbuatan tangan manusia, supaya manusia sadar. Dan Allah tidak suka terhadap kerusakan.
-5. [QS. Al-Kahfi 18 - 7](QS.%20Al-Kahfi%2018%20-%207.md)Surat Al Kahfi 18:7, menjadi dalil Allah menciptakan semua ini sebagai ujian. Yang diuji adalah response manusia atas ujian itu.
+5. [QS. Al-Kahfi 18 - 7](QS.%20Al-Kahfi%2018%20-%207.md), menjadi dalil Allah menciptakan semua ini sebagai ujian. Yang diuji adalah response manusia atas ujian itu.
 6. [QS. Yasin 36 - 47](QS.%20Yasin%2036%20-%2047.md), menjadi dalil bahwa Allah menguji orang kaya dengan orang miskin, apakah orang kaya mau melepaskan hartanya demi Allah, bukan Allah tidak mampu menjadikan orang miskin itu menjadi orang kaya.
 7. aaa
 ---
