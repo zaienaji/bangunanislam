@@ -1,0 +1,1 @@
+[Al-Mulk 67:2](https://quran.com/67?startingVerse=2)
