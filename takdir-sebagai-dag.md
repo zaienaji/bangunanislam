@@ -595,5 +595,10 @@ Salah satu petunjuk Allah adalah: [QS Al-An'am 6:165](Quran/QS-6-Al-An'am-165.md
 6. [QS. Yasin 36 - 47](Quran/QS.%20Yasin%2036%20-%2047.md), menjadi dalil bahwa Allah menguji orang kaya dengan orang miskin, apakah orang kaya mau melepaskan hartanya demi Allah, bukan Allah tidak mampu menjadikan orang miskin itu menjadi orang kaya.
 7. [QS Al-An'am 6:149](Quran/QS-6-Al-An'am-149.md) : Katakanlah, "Allah mempunyai hujah yang jelas lagi kuat; maka jika Dia menghendaki, pasti Dia memberi petunjuk kepada kamu semuanya".
 ---
+### Jika Al-Quran benar, mengapa orang kafir aman-aman saja
+
+**Bantahan**: Karena sudah takdir: [QS Taha 20:129](Quran/QS-20-Taha-129) Dan sekiranya tidak ada suatu ketetapan dari Allah yang telah terdahulu atau tidak ada ajal yang telah ditentukan, pasti (azab itu) menimpa mereka.
+
+---
 📖 Kembali ke:
 [Iman kepada takdir](iman-kepada-takdir.md)
