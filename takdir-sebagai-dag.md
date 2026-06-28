@@ -579,7 +579,9 @@ Bentuk lainnya adalah melegalkan perbuatannya dengan berkata: Kalau Allah tidak 
 Contoh dalam Al-Quran [QS Al-An'am 6:148](QS-6-Al-An'am-148.md) : 
 > Orang-orang yang mempersekutukan Tuhan akan mengatakan, "Jika Allah menghendaki, niscaya kami dan bapak-bapak kami tidak mempersekutukan-Nya dan tidak (pula) kami mengharamkan barang sesuatu apa pun". Demikian pulalah orang-orang sebelum mereka telah mendustakan (para rasul) sampai mereka merasakan siksaan Kami. Katakanlah, "Adakah kamu mempunyai sesuatu pengetahuan sehingga dapat kamu mengemukakannya kepada Kami?" Kamu tidak mengikuti kecuali persangkaan belaka, dan kamu tidak lain hanyalah berdusta.
 
-Dalam ayat tersebut, Allah menyebut cara mereka bedalil dengan sebutan **dusta**! Mengapa? karena mereka berdalil seperti itu tanpa dasar yang kuat, hanya premis logika yang mereka buat sendiri, dan mengesampingkan fakta. Fenomena ini disebut *confirmation bias*. Bantahan ada di dalam Al-Quran [QS Al-An'am 6:149](QS-6-Al-An'am-149.md).
+Dalam ayat tersebut, Allah menyebut cara mereka bedalil dengan sebutan **dusta**! Mengapa? karena mereka berdalil seperti itu tanpa dasar yang kuat, hanya premis logika yang mereka buat sendiri, dan mengesampingkan fakta. Fenomena ini disebut *confirmation bias*. Bantahan ada di dalam Al-Quran [QS Al-An'am 6:149](QS-6-Al-An'am-149.md) : Katakanlah, "Allah mempunyai hujah yang jelas lagi kuat; maka jika Dia menghendaki, pasti Dia memberi petunjuk kepada kamu semuanya".
+
+Salah satu petunjuk Allah adalah: [QS Al-An'am 6:165](QS-6-Al-An'am-165.md) Dan Dia-lah yang menjadikan kamu penguasa-penguasa di bumi dan Dia meninggikan sebagian kamu atas sebagian (yang lain) beberapa derajat, untuk mengujimu tentang apa yang diberikan-Nya kepadamu. Sesungguhnya Tuhan-mu amat cepat siksaan-Nya, dan sesungguhnya Dia Maha Pengampun lagi Maha Penyayang.
 
 #### Bantahan
 1. tidak boleh berdalil dengan takdir, karena kita tidak tau bagaimana secara *exact* takdir ditulis.
@@ -588,7 +590,8 @@ Dalam ayat tersebut, Allah menyebut cara mereka bedalil dengan sebutan **dusta**
 4. Allah bisa berkehendak, tapi Allah tidak ridho. Contoh: Allah menciptakan iblis, tapi Allah tidak ridho dengan iblis. Allah sengaja membuat manusia merasakan sebagian kerusakan akibat perbuatan tangan manusia, supaya manusia sadar. Dan Allah tidak suka terhadap kerusakan.
 5. [QS. Al-Kahfi 18 - 7](Quran/QS.%20Al-Kahfi%2018%20-%207.md), menjadi dalil Allah menciptakan semua ini sebagai ujian. Yang diuji adalah response manusia atas ujian itu.
 6. [QS. Yasin 36 - 47](Quran/QS.%20Yasin%2036%20-%2047.md), menjadi dalil bahwa Allah menguji orang kaya dengan orang miskin, apakah orang kaya mau melepaskan hartanya demi Allah, bukan Allah tidak mampu menjadikan orang miskin itu menjadi orang kaya.
-7. aaa
+7. [QS Al-An'am 6:149](QS-6-Al-An'am-149.md) : Katakanlah, "Allah mempunyai hujah yang jelas lagi kuat; maka jika Dia menghendaki, pasti Dia memberi petunjuk kepada kamu semuanya".
+8. [QS Al-An'am 6:165](QS-6-Al-An'am-165.md) Dan Dia-lah yang menjadikan kamu penguasa-penguasa di bumi dan Dia meninggikan sebagian kamu atas sebagian (yang lain) beberapa derajat, untuk mengujimu tentang apa yang diberikan-Nya kepadamu. Sesungguhnya Tuhan-mu amat cepat siksaan-Nya, dan sesungguhnya Dia Maha Pengampun lagi Maha Penyayang.
 ---
 📖 Kembali ke:
 [Iman kepada takdir](iman-kepada-takdir.md)

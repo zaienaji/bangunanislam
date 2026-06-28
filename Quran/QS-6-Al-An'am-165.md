@@ -1,0 +1,1 @@
+[Al-An'am 6:165]([Read Full Surah Al-An'am - Listen with Translation, Transliteration and Tafsir - Quran.com](https://quran.com/6?startingVerse=165)) menjelaskan Allah memberikan kedudukan sebagai ujian.

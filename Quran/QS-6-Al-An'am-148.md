@@ -1,1 +1,1 @@
-[Read Full Surah Al-An'am - Listen with Translation, Transliteration and Tafsir - Quran.com](https://quran.com/6?startingVerse=148)
+[Al-An'am 6:148](https://quran.com/6?startingVerse=148) berisi syubhat dengan cara berdalil dengan takdir, dan dibantah di [QS Al-An'am 6:149](QS-6-Al-An'am-149.md).

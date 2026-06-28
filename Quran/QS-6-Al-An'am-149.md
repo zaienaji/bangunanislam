@@ -1,1 +1,1 @@
-[Read Full Surah Al-An'am - Listen with Translation, Transliteration and Tafsir - Quran.com](https://quran.com/6?startingVerse=149)
+[Al-An'am 6:149](https://quran.com/6?startingVerse=149) menjelaskan hujjah Allah, yang salah satunya dijelaskan dalam [QS Al-An'am 6:165](QS-6-Al-An'am-165.md)
