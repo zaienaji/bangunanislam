@@ -569,12 +569,17 @@ Selama masih hidup, manusia selalu punya node berikutnya [QS. Al-Balad 90:10](Qu
 
 
 ---
-## Syubhat pemikiran (falasi) pada takdir
+## Syubhat pemikiran (*logical fallacy*) pada takdir
 
 ### Berdalil dengan takdir
 
 Bentuknya dengan cara melegalkan perbuatannya dengan dalil ini sudah takdir.
 Bentuk lainnya adalah melegalkan perbuatannya dengan berkata: Kalau Allah tidak mau, maka ini tidak akan terjadi. Karena ini sudah terjadi, maka kesimpulannya Allah mau.
+
+Contoh dalam Al-Quran [QS Al-An'am 6:148](QS-6-Al-An'am-148.md) : 
+> Orang-orang yang mempersekutukan Tuhan akan mengatakan, "Jika Allah menghendaki, niscaya kami dan bapak-bapak kami tidak mempersekutukan-Nya dan tidak (pula) kami mengharamkan barang sesuatu apa pun". Demikian pulalah orang-orang sebelum mereka telah mendustakan (para rasul) sampai mereka merasakan siksaan Kami. Katakanlah, "Adakah kamu mempunyai sesuatu pengetahuan sehingga dapat kamu mengemukakannya kepada Kami?" Kamu tidak mengikuti kecuali persangkaan belaka, dan kamu tidak lain hanyalah berdusta.
+
+Dalam ayat tersebut, Allah menyebut cara mereka bedalil dengan sebutan **dusta**! Mengapa? karena mereka berdalil seperti itu tanpa dasar yang kuat, hanya premis logika yang mereka buat sendiri, dan mengesampingkan fakta. Fenomena ini disebut *confirmation bias*. Bantahan ada di dalam Al-Quran [QS Al-An'am 6:149](QS-6-Al-An'am-149.md).
 
 #### Bantahan
 1. tidak boleh berdalil dengan takdir, karena kita tidak tau bagaimana secara *exact* takdir ditulis.

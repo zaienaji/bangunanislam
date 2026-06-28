@@ -3,7 +3,6 @@ title: Iman Kepada Hari Akhir
 tags:
   - rukun-iman
   - iman-kepada-hari-akhir
-  - place-holder
 ---
 # Iman kepada Hari Akhir  
   
